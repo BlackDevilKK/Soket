@@ -18,7 +18,7 @@ while True:
     if d:
         buffer.append(d)
     else:
-        break
+        print(1)
 
 data = b''.join(buffer)
 
